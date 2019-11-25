@@ -243,3 +243,8 @@ console.log(rangeBetwee(-4, 7));
 
 console.log(rangeBetwee(-4, 7,3));
 [-4, -1, 2, 5]
+
+[Advanced] Extend the function to work with Characters
+
+console.log(num_string_range('a', "z", 2));
+["a", "c", "e", "g", "i", "k", "m", "o", "q", "s", "u", "w", "y"]
